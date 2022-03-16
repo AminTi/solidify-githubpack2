@@ -1,0 +1,15 @@
+{
+  "name": "@aminti/solidify-githubpack2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Amin Titi",
+  "repository":{
+    "url": "git://github.com/aminti/solidify-githubpack2"
+  },
+  "license": "ISC"
+}
