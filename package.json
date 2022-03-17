@@ -11,5 +11,8 @@
   "repository":{
     "url": "git://github.com/aminti/solidify-githubpack2"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
